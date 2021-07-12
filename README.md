@@ -1,1 +1,1 @@
-# infinte-new-game
+# project-38-INFINTE-RUNNER-GAME
